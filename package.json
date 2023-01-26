@@ -5,6 +5,6 @@
   "main": "index.html",
   "dependencies": {},
   "scripts": {
-    "sitebuild": "npm run build"
+    "build": "webpack"
   }
 }
